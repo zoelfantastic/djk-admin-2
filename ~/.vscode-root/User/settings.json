@@ -1,0 +1,8 @@
+{
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Quiet Light",
+    "workbench.iconTheme": "vscode-icons"
+}

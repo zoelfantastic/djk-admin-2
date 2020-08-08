@@ -1,0 +1,408 @@
+["INFO" - 10:50:33 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 10:50:33 AM] Extension Version: 5.1.3.
+["INFO" - 10:50:33 AM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 10:50:33 AM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 10:52:38 AM] Formatting /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Header.jsx
+["INFO" - 10:52:38 AM] Using ignore file (if present) at /home/zulfi/project-freelance-ubuntu/djk-admin-2/.prettierignore
+["INFO" - 10:52:38 AM] Using bundled version of prettier.
+["INFO" - 10:52:38 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 10:52:38 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:52:38 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Header.jsx",
+  "parser": "babel"
+}
+["INFO" - 10:52:38 AM] Formatting completed in 383.417073ms.
+["INFO" - 11:01:34 AM] Formatting /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Menu.jsx
+["INFO" - 11:01:34 AM] Using ignore file (if present) at /home/zulfi/project-freelance-ubuntu/djk-admin-2/.prettierignore
+["INFO" - 11:01:34 AM] Using bundled version of prettier.
+["INFO" - 11:01:34 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 11:01:34 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:01:34 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Menu.jsx",
+  "parser": "babel"
+}
+["INFO" - 11:01:34 AM] Formatting completed in 289.267215ms.
+["INFO" - 11:02:47 AM] Formatting /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Footer.jsx
+["INFO" - 11:02:47 AM] Using ignore file (if present) at /home/zulfi/project-freelance-ubuntu/djk-admin-2/.prettierignore
+["INFO" - 11:02:47 AM] Using bundled version of prettier.
+["INFO" - 11:02:47 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 11:02:47 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:02:47 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Footer.jsx",
+  "parser": "babel"
+}
+["INFO" - 11:02:47 AM] Formatting completed in 49.689619ms.
+["INFO" - 11:03:53 AM] Formatting /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Content.jsx
+["INFO" - 11:03:53 AM] Using ignore file (if present) at /home/zulfi/project-freelance-ubuntu/djk-admin-2/.prettierignore
+["INFO" - 11:03:53 AM] Using bundled version of prettier.
+["INFO" - 11:03:53 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 11:03:53 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:03:53 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Content.jsx",
+  "parser": "babel"
+}
+["ERROR" - 11:03:53 AM] Error formatting document.
+["ERROR" - 11:03:53 AM] Unexpected token (6:14)
+  4 |     render() {
+  5 |         return (
+> 6 |             <<div>
+    |              ^
+  7 |   div&gt;
+  8 |   <div className="content-wrapper">
+  9 |     {/* Content Header (Page header) */}
+SyntaxError: Unexpected token (6:14)
+  4 |     render() {
+  5 |         return (
+> 6 |             <<div>
+    |              ^
+  7 |   div&gt;
+  8 |   <div className="content-wrapper">
+  9 |     {/* Content Header (Page header) */}
+	at e (/root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-babel.js:1:344)
+	at Object.parse (/root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-babel.js:1:262513)
+	at Object.parse (/root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:11370:19)
+	at coreFormat (/root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:14784:25)
+	at format (/root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15019:75)
+	at formatWithCursor (/root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15035:12)
+	at /root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51620:12
+	at Object.format (/root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51640:12)
+	at t.default.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:58387)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:53305)
+["INFO" - 11:03:53 AM] Formatting completed in 23.37306ms.
+["INFO" - 11:03:56 AM] Formatting /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Content.jsx
+["INFO" - 11:03:56 AM] Using ignore file (if present) at /home/zulfi/project-freelance-ubuntu/djk-admin-2/.prettierignore
+["INFO" - 11:03:56 AM] Using bundled version of prettier.
+["INFO" - 11:03:56 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 11:03:56 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:03:56 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Content.jsx",
+  "parser": "babel"
+}
+["ERROR" - 11:03:56 AM] Error formatting document.
+["ERROR" - 11:03:56 AM] Unexpected token (6:14)
+  4 |     render() {
+  5 |         return (
+> 6 |             <<div>
+    |              ^
+  7 |   div&gt;
+  8 |   <div className="content-wrapper">
+  9 |     {/* Content Header (Page header) */}
+SyntaxError: Unexpected token (6:14)
+  4 |     render() {
+  5 |         return (
+> 6 |             <<div>
+    |              ^
+  7 |   div&gt;
+  8 |   <div className="content-wrapper">
+  9 |     {/* Content Header (Page header) */}
+	at e (/root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-babel.js:1:344)
+	at Object.parse (/root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-babel.js:1:262513)
+	at Object.parse (/root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:11370:19)
+	at coreFormat (/root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:14784:25)
+	at format (/root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15019:75)
+	at formatWithCursor (/root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15035:12)
+	at /root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51620:12
+	at Object.format (/root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51640:12)
+	at t.default.<anonymous> (/root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:58387)
+	at Generator.next (<anonymous>)
+	at s (/root/.vscode/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:53305)
+["INFO" - 11:03:56 AM] Formatting completed in 36.427201ms.
+["INFO" - 11:04:33 AM] Formatting /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Content.jsx
+["INFO" - 11:04:33 AM] Using ignore file (if present) at /home/zulfi/project-freelance-ubuntu/djk-admin-2/.prettierignore
+["INFO" - 11:04:33 AM] Using bundled version of prettier.
+["INFO" - 11:04:33 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 11:04:33 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:04:33 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Content.jsx",
+  "parser": "babel"
+}
+["INFO" - 11:04:34 AM] Formatting completed in 292.783556ms.
+["INFO" - 11:04:39 AM] Formatting /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Content.jsx
+["INFO" - 11:04:39 AM] Using ignore file (if present) at /home/zulfi/project-freelance-ubuntu/djk-admin-2/.prettierignore
+["INFO" - 11:04:39 AM] Using bundled version of prettier.
+["INFO" - 11:04:39 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 11:04:39 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:04:39 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Content.jsx",
+  "parser": "babel"
+}
+["INFO" - 11:04:39 AM] Formatting completed in 187.047287ms.
+["INFO" - 11:04:43 AM] Formatting /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Content.jsx
+["INFO" - 11:04:43 AM] Using ignore file (if present) at /home/zulfi/project-freelance-ubuntu/djk-admin-2/.prettierignore
+["INFO" - 11:04:43 AM] Using bundled version of prettier.
+["INFO" - 11:04:43 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 11:04:43 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:04:43 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Content.jsx",
+  "parser": "babel"
+}
+["INFO" - 11:04:43 AM] Formatting completed in 132.564044ms.
+["INFO" - 11:04:50 AM] Formatting /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Content.jsx
+["INFO" - 11:04:50 AM] Using ignore file (if present) at /home/zulfi/project-freelance-ubuntu/djk-admin-2/.prettierignore
+["INFO" - 11:04:50 AM] Using bundled version of prettier.
+["INFO" - 11:04:50 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 11:04:50 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:04:50 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Content.jsx",
+  "parser": "babel"
+}
+["INFO" - 11:04:50 AM] Formatting completed in 144.041428ms.
+["INFO" - 11:05:10 AM] Formatting /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Content.jsx
+["INFO" - 11:05:10 AM] Using ignore file (if present) at /home/zulfi/project-freelance-ubuntu/djk-admin-2/.prettierignore
+["INFO" - 11:05:10 AM] Using bundled version of prettier.
+["INFO" - 11:05:10 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 11:05:10 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:05:10 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Content.jsx",
+  "parser": "babel"
+}
+["INFO" - 11:05:10 AM] Formatting completed in 256.283426ms.

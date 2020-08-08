@@ -1,0 +1,2 @@
+[2020-08-08 10:31:45.295] [sharedprocess] [info] main {"machineId":"ac6bddb2cd3c4761bb541b449b8c60eea83811a0955069e61e625cae16137b71","windowId":2}
+[2020-08-08 10:31:45.367] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/zulfi/project-freelance-ubuntu/djk-admin-2/~/.vscode-root/User/snippets'

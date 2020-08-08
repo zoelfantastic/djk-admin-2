@@ -1,0 +1,8 @@
+[2020-08-08 12:12:05.101] [sharedprocess] [info] main {"machineId":"ac6bddb2cd3c4761bb541b449b8c60eea83811a0955069e61e625cae16137b71","windowId":2}
+[2020-08-08 12:12:45.116] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-08-08 12:57:39.985] [sharedprocess] [info] Installing extension: vscode-icons-team.vscode-icons
+[2020-08-08 12:57:40.769] [sharedprocess] [info] Downloaded extension: vscode-icons-team.vscode-icons /home/zulfi/project-freelance-ubuntu/djk-admin-2/~/.vscode-root/CachedExtensionVSIXs/vscode-icons-team.vscode-icons-10.2.0
+[2020-08-08 12:57:41.987] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.vscode-icons-team.vscode-icons-10.2.0: vscode-icons-team.vscode-icons
+[2020-08-08 12:57:41.987] [sharedprocess] [info] Renamed to /root/.vscode/extensions/vscode-icons-team.vscode-icons-10.2.0
+[2020-08-08 12:57:41.989] [sharedprocess] [info] Installation completed. vscode-icons-team.vscode-icons
+[2020-08-08 12:57:42.040] [sharedprocess] [info] Extensions installed successfully: vscode-icons-team.vscode-icons

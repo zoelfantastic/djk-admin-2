@@ -1,0 +1,116 @@
+Looking for git in: git
+Using git 2.28.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/zulfi
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/public/index.html
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/public/index.html
+> git check-ignore -v -z --stdin
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/src/App.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/App.js
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/src/App.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/App.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/App.js
+fatal: your current branch 'master' does not have any commits yet
+> git check-ignore -v -z --stdin
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/src/components/Header.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Header.jsx
+> git check-ignore -v -z --stdin
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/src/components/Menu.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Menu.jsx
+> git check-ignore -v -z --stdin
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/src/components/Content.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Content.jsx
+> git check-ignore -v -z --stdin
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/src/components/Footer.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Footer.jsx
+> git check-ignore -v -z --stdin
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/src/App.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/App.js
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/src/components/Header.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Header.jsx
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/src/components/Header.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Header.jsx
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/src/components/Header.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Header.jsx
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/src/components/Header.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Header.jsx
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/src/App.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/App.js
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/src/components/Menu.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Menu.jsx
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/public/index.html
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/public/index.html
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/src/App.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/App.js
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/src/components/Footer.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Footer.jsx
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/src/App.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/App.js
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/src/components/Content.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Content.jsx
+> git show --textconv :project-freelance-ubuntu/djk-admin-2/src/App.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/App.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/App.js
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/zulfi/project-freelance-ubuntu/djk-admin-2
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/App.js
+fatal: your current branch 'master' does not have any commits yet
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :public/config/app.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/public/config/app.js
+> git check-ignore -v -z --stdin
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/App.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin

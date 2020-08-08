@@ -1,0 +1,120 @@
+Looking for git in: git
+Using git 2.28.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/zulfi/project-freelance-ubuntu/djk-admin-2
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/App.js
+fatal: your current branch 'master' does not have any commits yet
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/App.js
+fatal: your current branch 'master' does not have any commits yet
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/App.js
+fatal: your current branch 'master' does not have any commits yet
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/index.js
+fatal: your current branch 'master' does not have any commits yet
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/App.js
+> git show --textconv :src/context/app-context-provider.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/context/app-context-provider.jsx
+> git show --textconv :src/context/context.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/context/context.js
+> git show --textconv :src/context/index.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/context/index.js
+> git show --textconv :package.json
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/package.json
+> git show --textconv :src/craco.config.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/craco.config.js
+> git show --textconv :src/components/route-with-layout.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/route-with-layout.js
+> git show --textconv :src/components/route-with-layout.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/route-with-layout.jsx
+> git show --textconv :src/app/routes.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/app/routes.jsx
+> git show --textconv :src/app/index.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/app/index.jsx
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/index.js
+> git show --textconv :src/app/store/app-actions-js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/app/store/app-actions-js
+> git show --textconv :src/app/store/app-context.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/app/store/app-context.js
+> git show --textconv :src/app/store/app-reducers.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/app/store/app-reducers.js
+> git show --textconv :src/app/store/history.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/app/store/history.js
+> git show --textconv :src/app/store/index.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/app/store/index.js
+> git show --textconv :src/app/store/store.prod.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/app/store/store.prod.js
+> git show --textconv :src/app/store/app-actions.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/app/store/app-actions.js
+> git show --textconv :src/index.css
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/index.css
+> git show --textconv :src/logo.svg
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/logo.svg
+> git show --textconv :craco.config.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/craco.config.js
+> git show --textconv :src/app/homepage/homepage.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/app/homepage/homepage.jsx
+> git show --textconv :src/app/homepage/index.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/app/homepage/index.js
+> git show --textconv :src/components/table.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/table.jsx
+> git show --textconv :src/api/api-service.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/api/api-service.js
+> git show --textconv :src/app/layout/MainLayout.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/app/layout/MainLayout.jsx
+> git show --textconv :src/components/content.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/content.jsx
+> git show --textconv :src/components/Content.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Content.jsx
+> git show --textconv :src/components/Footer.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Footer.jsx
+> git show --textconv :src/components/index.js
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/index.js
+> git show --textconv :src/components/Menu.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Menu.jsx
+> git show --textconv :src/components/Header.jsx
+> git ls-files --stage -- /home/zulfi/project-freelance-ubuntu/djk-admin-2/src/components/Header.jsx
